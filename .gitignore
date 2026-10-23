@@ -1,0 +1,12 @@
+# macOS metadata
+.DS_Store
+
+# Icarus Verilog simulation executables
+*.vvp
+*_sim
+
+# Generated waveforms
+*.vcd
+*.fst
+*.lxt
+*.lxt2
