@@ -6,5 +6,5 @@ Install Icarus Verilog with Homebrew if it is not already installed:
 brew install icarus-verilog
 ```
 
-Run the following commands from this folder.
+
 
